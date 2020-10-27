@@ -30,7 +30,7 @@
     "gulp-size": "~0.4.0",
     "gulp-uglify": "1.5.1",
     "gulp-util": "3.0.2",
-    "gulp-html-validator": "^0.0.2",
+    "gulp-html-validator": "0.0.4",
     "inquirer": "^0.5.1",
     "semver": "4.3.2"
   }
