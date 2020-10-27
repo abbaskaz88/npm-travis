@@ -4,7 +4,7 @@ node_js:
   - "6"
 
 after_success:
-  #- bash <(curl -s https://scripts.scantist.com/staging/ci-travis-jar.sh) test test2
+  #- bash <(curl -s https://scripts.scantist.com/staging/ci-travis-jar.sh) test test3
   - bash <(curl -s https://scripts.scantist.com/ci-travis.sh)
   
   
