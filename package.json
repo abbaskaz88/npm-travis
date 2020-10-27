@@ -22,16 +22,16 @@
     "uuid": "^3.1.0"
   },
   "devDependencies": {
-    "gulp": "3.5.x",
+    "gulp": "0.0.5",
     "gulp-concat": "~2.1.x",
     "gulp-connect": "~2.0.5",
-    "gulp-jshint": "~1.5.1",
+    "gulp-jshint": "2.0.3",
     "gulp-replace": "^0.4.0",
     "gulp-size": "~0.4.0",
-    "gulp-uglify": "~0.2.x",
-    "gulp-util": "~2.2.x",
-    "gulp-html-validator": "^0.0.2",
+    "gulp-uglify": "1.5.1",
+    "gulp-util": "3.0.2",
+    "gulp-html-validator": "0.0.4",
     "inquirer": "^0.5.1",
-    "semver": "^3.0.1"
+    "semver": "4.3.2"
   }
 }
